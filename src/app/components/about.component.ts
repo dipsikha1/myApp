@@ -1,0 +1,13 @@
+//demonstrating Routing in this component
+
+import { Component } from '@angular/core';
+
+@Component({
+  selector: 'about',
+  template: `
+<h1>About this App </h1>
+  `,
+})
+
+export class AboutComponent  {
+ }
